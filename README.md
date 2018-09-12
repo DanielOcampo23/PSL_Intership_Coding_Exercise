@@ -1,6 +1,12 @@
 # PSL_Intership_Coding_Exercise
 PSL Intership challenge 2018
 
+Daniel Steveen Ocampo
+
+Student of Icesi University
+
+danielsteven23@hotmail.com
+
 ## How to play?
 
 - First you have to install Java 8.
@@ -22,6 +28,3 @@ Java
 Version:
 JVM 1.8
 
-Daniel Steveen Ocampo
-Student of Icesi University
-danielsteven23@hotmail.com
