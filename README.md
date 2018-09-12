@@ -12,7 +12,7 @@ java -jar Minesweeper.jar
 ```
 Easy, now you can enjoy the game, HAVE FUN :D
 
-Assumptions: 
+## Assumptions: 
 - There is no unmark action, you can delete a flag by uncovering the cell.
 - Mines are generated randomly as soon as the board's parameters are given, it means that you have a chance to lose the game in your first move.
 
