@@ -1,7 +1,7 @@
 # PSL_Intership_Coding_Exercise
 PSL Intership challenge 2018
 
-# How to play?
+## How to play?
 
 - First you have to install Java 8.
 - Second you have to download Minesweeper.jar
